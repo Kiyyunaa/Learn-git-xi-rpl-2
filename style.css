@@ -1,0 +1,14 @@
+h1 {
+    color: rgb(3, 3, 3);
+    background-color: #080808;
+    padding: 30px;
+    border-radius: 5px; 
+    margin: 20px;
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-shadow: 2px 2px 2px #000000;
+    transition: all 0.3s ease;
+}
