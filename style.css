@@ -12,3 +12,10 @@ h1 {
     text-shadow: 2px 2px 2px #000000;
     transition: all 0.3s ease;
 }
+
+.div{
+    font-family: Arial, sans-serif;
+    flex-direction: column;
+    column-rule-color: #080808;
+    background-color: aqua;
+}
