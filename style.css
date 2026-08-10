@@ -13,9 +13,10 @@ h1 {
     transition: all 0.3s ease;
 }
 
-.div{
-    font-family: Arial, sans-serif;
-    flex-direction: column;
-    column-rule-color: #080808;
-    background-color: aqua;
+body{
+    background: aqua;
+    font-family: 'Times New Roman', Times, serif;
+    display: flex;
+    flex-basis: content;
+    justify-content: center;
 }
