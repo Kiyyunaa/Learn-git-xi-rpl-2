@@ -12,3 +12,11 @@ h1 {
     text-shadow: 2px 2px 2px #000000;
     transition: all 0.3s ease;
 }
+
+body{
+    background: aqua;
+    font-family: 'Times New Roman', Times, serif;
+    display: flex;
+    flex-basis: content;
+    justify-content: center;
+}
